@@ -56,7 +56,7 @@ source-folder ➡︎ アップロードからデータセットをsource-folder�
 
 [filtered.py](codes/filtered.py)
 
-[aggregated.py](codes/filtered.py)
+[aggregated.py](codes/aggregated.py)
 
 このコードでやっていること
 
